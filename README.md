@@ -1,10 +1,10 @@
->>  Database functions:
+-  Database functions:
 1-  create_database: Creates a directory for the database.
 2-  delete_database: Deletes the directory (and all tables).
 3-  list_databases: Lists all databases (directories).
 4-  connect_database: Sets the current database by saving the path to a variable.
 
->>  Table functions:
+-  Table functions:
 1-  create_table: Creates a table as a text file.
 2-  delete_table: Deletes the specified table (file).
 3-  list_tables: Lists tables in the current connected database.
